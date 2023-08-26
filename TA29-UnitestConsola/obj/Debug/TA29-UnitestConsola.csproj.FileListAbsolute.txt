@@ -1,0 +1,10 @@
+E:\VS Proyectos\TA29-UnitestConsola\obj\Debug\TA29-UnitestConsola.csproj.AssemblyReference.cache
+E:\VS Proyectos\TA29-UnitestConsola\obj\Debug\TA29-UnitestConsola.csproj.CoreCompileInputs.cache
+E:\VS Proyectos\TA29-UnitestConsola\bin\Debug\TA29-UnitestConsola.exe.config
+E:\VS Proyectos\TA29-UnitestConsola\bin\Debug\TA29-UnitestConsola.exe
+E:\VS Proyectos\TA29-UnitestConsola\bin\Debug\TA29-UnitestConsola.pdb
+E:\VS Proyectos\TA29-UnitestConsola\bin\Debug\nunit.framework.dll
+E:\VS Proyectos\TA29-UnitestConsola\bin\Debug\nunit.framework.xml
+E:\VS Proyectos\TA29-UnitestConsola\obj\Debug\TA29-UnitestConsola.csproj.CopyComplete
+E:\VS Proyectos\TA29-UnitestConsola\obj\Debug\TA29-UnitestConsola.exe
+E:\VS Proyectos\TA29-UnitestConsola\obj\Debug\TA29-UnitestConsola.pdb
